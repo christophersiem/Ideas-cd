@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PlanningTool-cd.iml" filepath="$PROJECT_DIR$/.idea/PlanningTool-cd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cgn-web-20-2-project-plan/project-planning/project-planning.iml" filepath="$PROJECT_DIR$/cgn-web-20-2-project-plan/project-planning/project-planning.iml" />
+    </modules>
+  </component>
+</project>
