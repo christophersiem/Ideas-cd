@@ -55,12 +55,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: create target folder
-        run: mkdir project-planning/target
+        run: mkdir cgn-web-20-2-project-plan/project-planning/target
       - name: download project-planning.jar
         uses: actions/download-artifact@v2
         with:
           name: project-planning.jar
-          path: project-planning/target
+          path: cgn-web-20-2-project-plan/project-planning/target
       - name: login to heroku
         env:
           HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
