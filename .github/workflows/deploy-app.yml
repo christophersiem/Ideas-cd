@@ -41,7 +41,7 @@ jobs:
         with:
           java-version: 14
       - name: Build with Maven
-        run: mvn -B package --file ./project-planning/pom.xml
+        run: mvn -B package --file ./cgn-web-20-2-project-plan/project-planning/pom.xml
       - name: upload project-planning.jar file
         uses: actions/upload-artifact@v2
         with:
