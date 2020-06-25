@@ -1,6 +1,5 @@
 package de.neuefische.projectplanning.controller;
 
-import de.neuefische.projectplanning.db.IdeaDb;
 import de.neuefische.projectplanning.db.IdeaMongoDb;
 import de.neuefische.projectplanning.model.AddIdeaDto;
 import de.neuefische.projectplanning.model.Idea;
